@@ -12,7 +12,7 @@ router.post('/action/update', function(req, res) {
   qq = "" + req.body.qq;
   username = "" + req.body.username;
   crawler(qq, username);
-  res.send({code: 200, msg: "正在更新您的游玩数据，请等待3~5分钟后在右侧进行查询"});
+  res.send({code: 200, msg: "正在更新您的游玩数据，请等待3~5分钟后在右侧进行查询。如果10分钟内仍未成功，请重试或报告Bug~"});
   res.end();
 })
 

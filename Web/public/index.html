@@ -77,14 +77,15 @@
                     <h5 class="card-text my-1">PTT：{{ player_data['rating'] }}</h5>
                     <p class="card-text my-1">绑定QQ：{{ player_data['qq'] }}</p>
                     <p class="card-text my-1">User ID：{{ player_data['user_id'] }}</p>
-                    <p class="card-text my-1">账号注册时间：{{ player_data['join_date'] }}</p>
                     <p class="card-text my-1">好友码：{{ player_data['user_code'] }}</p>
+                    <p class="card-text my-1">账号注册时间：{{ player_data['join_date'] }}</p>
                     <p class="card-text my-1">最后更新日期：{{ player_data['update_time'] }}</p>
                     <div class="row">
                         <div class="card col-6 col-md-4 col-xl-2 m-auto" v-for="score in player_data['b30']" v-bind:key="score.index">
                             <div class="card-body">
                                 <h5 class="card-text">{{ score['song'] }}</h5>
                                 <p class="card-text my-1">难度：{{ score['difficulty'] }}</p>
+                                <p class="card-text my-1">定数：{{ score['constant'] }}</p>
                                 <p class="card-text my-1">分数：{{ score['score'] }}</p>
                                 <p class="card-text my-1">单曲PTT：{{ score['rating'] }}</p>
                                 <p class="card-text my-1">{{ score['clear_type'] }}</p>

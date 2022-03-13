@@ -56,6 +56,7 @@ var info = {
                             miss_count: element['miss_count'],
                             clear_type: element['clear_type'],
                             rating: element['rating'].toFixed(3),
+                            constant: element['constant']
                         });
                     }
                     this.show = true

@@ -52,7 +52,8 @@ function get_info(qq, callback) {
                             near_count: element['near_count'],
                             miss_count: element['miss_count'],
                             clear_type: clear_list[element['clear_type']],
-                            rating: element['rating']
+                            rating: element['rating'],
+                            constant: element['constant'],
                         });
                     }
                     callback({code:200, msg:'获取成功', data:result});
