@@ -18,7 +18,7 @@ function get_info(qq, callback) {
             base_info_str = base_data.toString();
             base_info = JSON.parse(base_info_str)
             if (base_info['state'] != 0) {
-                callback({code: 300, msg: '正在查询中，请稍等~' + JSON.stringify(base_info)});
+                callback({code: 300, msg: '正在从查分器存储至缓存中，请稍后再查询~' + JSON.stringify(base_info)});
                 return;
             }
             update_time = base_info['updatetime']
