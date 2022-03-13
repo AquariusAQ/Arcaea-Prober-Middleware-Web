@@ -8,7 +8,7 @@ function get_info(qq, callback) {
     //data_root = './'
     data_root = __dirname.slice(0,-7) + '/data/'
     if (!fs.existsSync(data_root + qq + '.json')) {
-        callback({code: 400, msg: '该QQ号未绑定（'+data_root + qq + '.json'+')'});
+        callback({code: 400, msg: '该QQ号未绑定，请前往 http://arcaea.gensou.cc/ 进行账号绑定~'});
         return;
     }
     fs.readFile(data_root + qq + '.json', (err, base_data) => {
@@ -18,7 +18,7 @@ function get_info(qq, callback) {
             base_info_str = base_data.toString();
             base_info = JSON.parse(base_info_str)
             if (base_info['state'] != 0) {
-                callback({code: 300, msg: '正在查询中' + JSON.stringify(base_info)});
+                callback({code: 300, msg: '正在查询中，请稍等~' + JSON.stringify(base_info)});
                 return;
             }
             update_time = base_info['updatetime']
