@@ -23,7 +23,7 @@ var info = {
                 alert("QQ号和用户名不能为空！");
                 return;
             }
-            $.post('/action/update', {qq: this.qq, username: this.username}, (res) => {
+            $.post('/action/update', {qq: this.qq.trim(), username: this.username.trim()}, (res) => {
                 alert(res.msg);
             });
         },
@@ -32,7 +32,7 @@ var info = {
                 alert("QQ号不能为空！");
                 return
             }
-            $.post('/api/info', {qq: this.qq_query}, (res) => {
+            $.post('/api/info', {qq: this.qq_query.trim()}, (res) => {
                 data = JSON.parse(res)
                 if (data['code'] == 200) {
                     this.player_data.qq = data['data']['qq']
