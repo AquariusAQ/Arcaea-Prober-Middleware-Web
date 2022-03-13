@@ -17,8 +17,12 @@ function get_info(qq, callback) {
         } else {
             base_info_str = base_data.toString();
             base_info = JSON.parse(base_info_str)
-            if (base_info['state'] != 0) {
+            if (base_info['state'] == 1) {
                 callback({code: 300, msg: '正在从查分器存储至缓存中，请稍后再查询~' + JSON.stringify(base_info)});
+                return;
+            }
+            if (base_info['state'] == 3) {
+                callback({code: 500, msg: '查分器查询失败，请重新在  http://arcaea.gensou.cc/ 绑定账号！' + JSON.stringify(base_info)});
                 return;
             }
             update_time = base_info['updatetime']

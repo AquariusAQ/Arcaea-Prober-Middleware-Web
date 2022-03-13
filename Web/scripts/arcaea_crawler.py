@@ -127,21 +127,32 @@ def _query(id: str):
     scores.sort(key=cmp, reverse=True)
     return song_title, userinfo, scores
 
+try:
+    results = best(sys.argv[2], 30)
+    with open('./data/{}.txt'.format(sys.argv[1]), 'w+') as f:
+        f.write(json.dumps(results))
+        f.close()
 
-results = best(sys.argv[2], 30)
-with open('./data/{}.txt'.format(sys.argv[1]), 'w+') as f:
-    f.write(json.dumps(results))
-    f.close()
+    now_time = datetime.datetime.now()
+    time_str = datetime.datetime.strftime(now_time,'%Y-%m-%d %H:%M:%S')
+    info = {
+    	"qq": sys.argv[1],
+    	"username": sys.argv[2],
+    	"state": 0,
+        "updatetime": time_str
+    }
 
-now_time = datetime.datetime.now()
-time_str = datetime.datetime.strftime(now_time,'%Y-%m-%d %H:%M:%S')
-info = {
-	"qq": sys.argv[1],
-	"username": sys.argv[2],
-	"state": 0,
-    "updatetime": time_str
-}
+    with open('./data/{}.json'.format(sys.argv[1]), 'w+') as f:
+        f.write(json.dumps(info))
+        f.close()
+except:
+    info = {
+    	"qq": sys.argv[1],
+    	"username": sys.argv[2],
+    	"state": 3,
+        "updatetime": time_str
+    }
 
-with open('./data/{}.json'.format(sys.argv[1]), 'w+') as f:
-    f.write(json.dumps(info))
-    f.close()
+    with open('./data/{}.json'.format(sys.argv[1]), 'w+') as f:
+        f.write(json.dumps(info))
+        f.close()

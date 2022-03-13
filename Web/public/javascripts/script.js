@@ -34,30 +34,35 @@ var info = {
             }
             $.post('/api/info', {qq: this.qq_query}, (res) => {
                 data = JSON.parse(res)
-                this.player_data.qq = data['data']['qq']
-                this.player_data.user_id = data['data']['user_id']
-                this.player_data.join_date = time_format(data['data']['join_date'])
-                this.player_data.rating = data['data']['rating'] / 100
-                this.player_data.user_code = data['data']['user_code']
-                this.player_data.username = data['data']['username']
-                this.player_data.update_time = data['data']['update_time']
-                this.player_data.b30 = []
-                for (let index = 0; index < data['data']['b30'].length; index++) {
-                    const element = data['data']['b30'][index];
-                    this.player_data.b30.push({
-                        index: index,
-                        song: element['song'],
-                        difficulty: element['difficulty'],
-                        score: element['score'],
-                        shiny_perfect_count: element['shiny_perfect_count'],
-                        perfect_count: element['perfect_count'],
-                        near_count: element['near_count'],
-                        miss_count: element['miss_count'],
-                        clear_type: element['clear_type'],
-                        rating: element['rating'].toFixed(3),
-                    });
+                if (data['code'] == 200) {
+                    this.player_data.qq = data['data']['qq']
+                    this.player_data.user_id = data['data']['user_id']
+                    this.player_data.join_date = time_format(data['data']['join_date'])
+                    this.player_data.rating = data['data']['rating'] / 100
+                    this.player_data.user_code = data['data']['user_code']
+                    this.player_data.username = data['data']['username']
+                    this.player_data.update_time = data['data']['update_time']
+                    this.player_data.b30 = []
+                    for (let index = 0; index < data['data']['b30'].length; index++) {
+                        const element = data['data']['b30'][index];
+                        this.player_data.b30.push({
+                            index: index,
+                            song: element['song'],
+                            difficulty: element['difficulty'],
+                            score: element['score'],
+                            shiny_perfect_count: element['shiny_perfect_count'],
+                            perfect_count: element['perfect_count'],
+                            near_count: element['near_count'],
+                            miss_count: element['miss_count'],
+                            clear_type: element['clear_type'],
+                            rating: element['rating'].toFixed(3),
+                        });
+                    }
+                    this.show = true
+                } else {
+                    alert(data['msg'])
                 }
-                this.show = true
+                
             });
         }
     }

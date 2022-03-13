@@ -5,7 +5,7 @@ var jsexecpy = require('jsexecpy')
 // 0: 已有有效数据
 // 1: 数据查询中
 // 2: 不存在该账号
-// 3: 目前服务器网络不佳
+// 3: 查询失败，请重试
 
 function crawler(qq, username) {
     data = {
