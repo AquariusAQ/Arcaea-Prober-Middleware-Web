@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cn_zh">
+<head>
+    <meta charset="UTF-8">
+    <title>小祈的Arc查分缓存站</title>
+
+    <link rel="stylesheet" href="./stylesheets/style.css">
+
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <script src="https://cdn.staticfile.org/vue/3.0.5/vue.global.js"></script>
+
+    <script src="./javascripts/script.js"></script>
+</head>
+<body>
+    <div class="tab-content" id="info">
+        <div class="px-5">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-main">Arcaea查分缓存站</h4>
+                    <br>
+                    <p class="card-text">本站提供Arcaea个人游玩成绩数据的缓存，用以提高QQbot访问API的速度。</p>
+                    <p class="card-text">使用说明：对使用本缓存站分数数据的QQbot，如果需要进行Arcaea查分，
+                        在首次使用或分数更新时，都需要在本站手动进行一次QQ号与Arcaea用户名的绑定。</p>
+                    <p class="card-text">注意：由于查分接口缓慢，更新可能需要3~5分钟，请耐心等待。</p>
+                    <p>为了节约服务器资源，网站不设登录功能，请不要擅自绑定不属于自己的QQ号，谢谢。</p>
+                    <p>特别感谢：
+                        <a href='https://redive.estertion.win/arcaea/probe/' target="_blank" rel="noopener noreferrer">干炸里脊资源站</a>
+                    提供的查分接口 / <a href='https://github.com/Diving-Fish/ArcaeaBot/' target="_blank" rel="noopener noreferrer">Diving-Fish</a>
+                    编写的爬虫脚本</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="px-5">
+            <div class="row px-0 mx-0">
+                <div class="card col-12 col-md-6">
+                    <div class="card-body">
+                        <h4 class="card-main">分数更新</h4>
+                        <form>
+                            <div class="form-group">
+                              <label>QQ号</label>
+                              <input v-model="qq" class="form-control" placeholder="输入QQ号">
+                            </div>
+                            <div class="form-group">
+                              <label>Arcaea用户名</label>
+                              <input v-model="username" class="form-control" placeholder="输入用户名">
+                            </div>
+                            <button type="button" class="btn btn-primary" @click="post_update">绑定/更新</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="card col-12 col-md-6">
+                    <div class="card-body">
+                        <h4 class="card-main">分数查询</h4>
+                        <p>注意：查询的是已绑定QQ的缓存数据，未绑定/未更新请在左边绑定/更新</p>
+                        <form>
+                            <div class="form-group">
+                              <label for="email">QQ号</label>
+                              <input v-model="qq_query" class="form-control" placeholder="输入QQ号">
+                            </div>
+                            <button type="button" class="btn btn-primary" @click="post_query">查询缓存</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="px-5" >
+            <div class="card" v-show="show">
+                <div class="card-body">
+                    <h4 class="card-main">{{ player_data['username'] }}</h4>
+                    <h5 class="card-text my-1">PTT：{{ player_data['rating'] }}</h5>
+                    <p class="card-text my-1">绑定QQ：{{ player_data['qq'] }}</p>
+                    <p class="card-text my-1">User ID：{{ player_data['user_id'] }}</p>
+                    <p class="card-text my-1">账号注册时间：{{ player_data['join_date'] }}</p>
+                    <p class="card-text my-1">好友码：{{ player_data['user_code'] }}</p>
+                    <p class="card-text my-1">最后更新日期：{{ player_data['update_time'] }}</p>
+                    <div class="row">
+                        <div class="card col-6 col-md-4 col-xl-2 m-auto" v-for="score in player_data['b30']" v-bind:key="score.index">
+                            <div class="card-body">
+                                <h5 class="card-text">{{ score['song'] }}</h5>
+                                <p class="card-text my-1">难度：{{ score['difficulty'] }}</p>
+                                <p class="card-text my-1">分数：{{ score['score'] }}</p>
+                                <p class="card-text my-1">单曲PTT：{{ score['rating'] }}</p>
+                                <p class="card-text my-1">{{ score['clear_type'] }}</p>
+                                <p class="card-text my-1">{{ score['perfect_count'] }}({{ score['shiny_perfect_count'] }})-
+                                    {{ score['near_count'] }}-{{ score['miss_count'] }}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="px-5">
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text">© Aquarius祈 2022</p>
+                    <p class="card-text">“Arcaea” 是 lowiro 开发的一款移动端游戏，本页面/工具与 lowiro 或 Arcaea 无关</p>
+                    <p class="card-text">在本站提交QQ号及游戏用户名，即视为您同意我们记录并更新您的上述用户信息，并基于此提供游戏数据查询服务。</p>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>

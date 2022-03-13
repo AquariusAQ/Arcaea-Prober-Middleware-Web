@@ -1,0 +1,2957 @@
+{
+	"song_title": {
+		"sayonarahatsukoi": {
+			"en": "Sayonara Hatsukoi"
+		},
+		"lostcivilization": {
+			"en": "Lost Civilization"
+		},
+		"goodtek": {
+			"en": "GOODTEK (Arcaea Edit)"
+		},
+		"viyella": {
+			"en": "cry of viyella"
+		},
+		"rise": {
+			"en": "Rise"
+		},
+		"lucifer": {
+			"en": "Lucifer"
+		},
+		"fairytale": {
+			"en": "Fairytale"
+		},
+		"hearditsaid": {
+			"en": "I've heard it said"
+		},
+		"babaroque": {
+			"en": "Babaroque"
+		},
+		"memoryfactory": {
+			"en": "memoryfactory.lzh"
+		},
+		"snowwhite": {
+			"en": "Snow White"
+		},
+		"relentless": {
+			"en": "Relentless"
+		},
+		"shadesoflight": {
+			"en": "Shades of Light in a Transcendent Realm"
+		},
+		"vexaria": {
+			"en": "Vexaria"
+		},
+		"essenceoftwilight": {
+			"en": "Essence of Twilight"
+		},
+		"qualia": {
+			"en": "qualia -ideaesthesia-"
+		},
+		"pragmatism": {
+			"en": "PRAGMATISM"
+		},
+		"sheriruth": {
+			"en": "Sheriruth"
+		},
+		"lumia": {
+			"en": "Lumia"
+		},
+		"dement": {
+			"en": "Dement ~after legend~"
+		},
+		"dandelion": {
+			"en": "Dandelion"
+		},
+		"anokumene": {
+			"en": "An\u00f6kumene",
+			"ko": "Anokumene",
+			"zh-Hant": "Anokumene",
+			"zh-Hans": "Anokumene"
+		},
+		"infinityheaven": {
+			"en": "Infinity Heaven"
+		},
+		"partyvinyl": {
+			"en": "Party Vinyl"
+		},
+		"flashback": {
+			"en": "Flashback"
+		},
+		"flyburg": {
+			"en": "Flyburg and Endroll",
+			"ja": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af\u3068\u30a8\u30f3\u30c9\u30ed\u30a6\u30eb"
+		},
+		"nirvluce": {
+			"en": "Nirv lucE"
+		},
+		"paradise": {
+			"en": "Paradise"
+		},
+		"brandnewworld": {
+			"en": "Brand new world"
+		},
+		"dataerror": {
+			"en": "DataErr0r"
+		},
+		"crosssoul": {
+			"en": "CROSS\u2020SOUL"
+		},
+		"yourvoiceso": {
+			"en": "Your voice so... feat. Such"
+		},
+		"chronostasis": {
+			"en": "Chronostasis"
+		},
+		"kanagawa": {
+			"en": "Kanagawa Cyber Culvert",
+			"ja": "\u795e\u5948\u5ddd\u96fb\u8133\u6697\u6e20"
+		},
+		"moonlightofsandcastle": {
+			"en": "Moonlight of Sand Castle"
+		},
+		"reconstruction": {
+			"en": "REconstruction"
+		},
+		"evoltex": {
+			"en": "Evoltex (poppi'n mix)"
+		},
+		"oracle": {
+			"en": "Oracle"
+		},
+		"aterlbus": {
+			"en": "\u03b1terl\u03b2us",
+			"zh-Hant": "aterlbus",
+			"zh-Hans": "aterlbus"
+		},
+		"clotho": {
+			"en": "Clotho and the stargazer",
+			"ja": "\u30af\u30ed\u30fc\u30c8\u30fc\u3068\u661f\u306e\u89b3\u6e2c\u8005"
+		},
+		"impurebird": {
+			"en": "Impure Bird",
+			"ja": "\u4e0d\u6d44\u306a\u767d\u3044\u9ce5"
+		},
+		"ignotus": {
+			"en": "Ignotus"
+		},
+		"lethaeus": {
+			"en": "Lethaeus"
+		},
+		"romancewars": {
+			"en": "Romance Wars",
+			"ja": "vs\u30ad\u30df\u6226\u4e89"
+		},
+		"blossoms": {
+			"en": "Blossoms"
+		},
+		"moonheart": {
+			"en": "Moonheart"
+		},
+		"genesis": {
+			"en": "Genesis"
+		},
+		"harutopia": {
+			"ja": "\u30cf\u30eb\u30c8\u30d4\u30a2 ~Utopia of Spring~",
+			"en": "Harutopia ~Utopia of Spring~"
+		},
+		"auxesia": {
+			"en": "Auxesia"
+		},
+		"rabbitintheblackroom": {
+			"en": "Rabbit In The Black Room"
+		},
+		"modelista": {
+			"en": "Modelista"
+		},
+		"soundwitch": {
+			"en": "SOUNDWiTCH"
+		},
+		"trappola": {
+			"en": "trappola bewitching",
+			"ja": "\u5996\u8276\u9b54\u5973 -trappola bewitching-"
+		},
+		"iconoclast": {
+			"en": "Iconoclast"
+		},
+		"conflict": {
+			"en": "conflict"
+		},
+		"axiumcrisis": {
+			"en": "Axium Crisis"
+		},
+		"grievouslady": {
+			"en": "Grievous Lady"
+		},
+		"dreaminattraction": {
+			"en": "Dreamin' Attraction!!"
+		},
+		"redandblue": {
+			"en": "Red and Blue"
+		},
+		"onelastdrive": {
+			"en": "One Last Drive"
+		},
+		"surrender": {
+			"en": "Surrender"
+		},
+		"yozakurafubuki": {
+			"en": "Yosakura Fubuki",
+			"ja": "\u591c\u685c\u5439\u96ea"
+		},
+		"cyanine": {
+			"en": "cyanine"
+		},
+		"dreamgoeson": {
+			"en": "Dream goes on"
+		},
+		"journey": {
+			"en": "Journey"
+		},
+		"specta": {
+			"en": "Specta"
+		},
+		"quon": {
+			"en": "Quon"
+		},
+		"syro": {
+			"en": "Syro"
+		},
+		"reinvent": {
+			"en": "Reinvent"
+		},
+		"silentrush": {
+			"en": "Silent Rush"
+		},
+		"singularity": {
+			"en": "Singularity"
+		},
+		"memoryforest": {
+			"en": "Memory Forest"
+		},
+		"strongholds": {
+			"en": "Strongholds"
+		},
+		"nexttoyou": {
+			"en": "next to you"
+		},
+		"metallicpunisher": {
+			"en": "Metallic Punisher"
+		},
+		"blaster": {
+			"en": "Blaster"
+		},
+		"guardina": {
+			"en": "\u03b3uar\u03b4ina",
+			"kr": "guardina",
+			"zh-Hant": "guardina",
+			"zh-Hans": "guardina"
+		},
+		"carminescythe": {
+			"en": "carmine:scythe"
+		},
+		"bethere": {
+			"en": "Be There"
+		},
+		"cyberneciacatharsis": {
+			"en": "Cybernecia Catharsis"
+		},
+		"callmyname": {
+			"en": "Call My Name feat. Yukacco"
+		},
+		"inkarusi": {
+			"en": "inkar-usi"
+		},
+		"mazenine": {
+			"en": "Maze No.9",
+			"ja": "\u4e5d\u756a\u76ee\u306e\u8ff7\u8def"
+		},
+		"themessage": {
+			"en": "The Message"
+		},
+		"sulfur": {
+			"en": "Sulfur"
+		},
+		"halcyon": {
+			"en": "Halcyon"
+		},
+		"etherstrike": {
+			"en": "Ether Strike"
+		},
+		"fractureray": {
+			"en": "Fracture Ray"
+		},
+		"suomi": {
+			"en": "Suomi"
+		},
+		"bookmaker": {
+			"en": "Bookmaker (2D Version)"
+		},
+		"darakunosono": {
+			"ja": "\u5815\u697d\u306e\u5712",
+			"en": "Illegal Paradise"
+		},
+		"dropdead": {
+			"en": "dropdead"
+		},
+		"fallensquare": {
+			"en": "Fallensquare"
+		},
+		"nhelv": {
+			"en": "Nhelv"
+		},
+		"espebranch": {
+			"ja": "\u767d\u9053\u3001\u591a\u5e0c\u671b\u7f8a\u3068\u4fe1\u3058\u3042\u308a\u304f\u3002",
+			"en": "LunarOrbit -believe in the Espebranch road-"
+		},
+		"purgatorium": {
+			"en": "Purgatorium"
+		},
+		"hikari": {
+			"ja": "\u5149",
+			"en": "Hikari"
+		},
+		"stager": {
+			"en": "STAGER (ALL STAGE CLEAR)"
+		},
+		"hallofmirrors": {
+			"en": "Hall of Mirrors"
+		},
+		"linearaccelerator": {
+			"en": "Linear Accelerator"
+		},
+		"tiferet": {
+			"en": "Tiferet"
+		},
+		"alexandrite": {
+			"en": "Alexandrite"
+		},
+		"rugie": {
+			"en": "Rugie"
+		},
+		"astraltale": {
+			"en": "Astral tale"
+		},
+		"phantasia": {
+			"en": "Phantasia"
+		},
+		"empireofwinter": {
+			"en": "Empire of Winter"
+		},
+		"merlin": {
+			"en": "MERLIN"
+		},
+		"dxfullmetal": {
+			"ja": "DX\u8d85\u6027\u80fd\u30d5\u30eb\u30e1\u30bf\u30eb\u5c11\u5973",
+			"en": "DX Choseinou Full Metal Shojo"
+		},
+		"omakeno": {
+			"en": "OMAKENO Stroke"
+		},
+		"scarletlance": {
+			"en": "Scarlet Lance"
+		},
+		"ouroboros": {
+			"en": "ouroboros -twin stroke of the end-"
+		},
+		"libertas": {
+			"en": "Libertas"
+		},
+		"solitarydream": {
+			"en": "Solitary Dream",
+			"ja": "\u865a\u7a7a\u306e\u5922"
+		},
+		"antithese": {
+			"en": "Antithese"
+		},
+		"corruption": {
+			"en": "Corruption"
+		},
+		"blackterritory": {
+			"en": "Black Territory"
+		},
+		"viciousheroism": {
+			"en": "Vicious Heroism"
+		},
+		"cyaegha": {
+			"en": "Cyaegha"
+		},
+		"revixy": {
+			"en": "ReviXy"
+		},
+		"grimheart": {
+			"en": "Grimheart"
+		},
+		"vector": {
+			"en": "VECTO\u042f"
+		},
+		"supernova": {
+			"en": "SUPERNOVA"
+		},
+		"dottodot": {
+			"en": "Dot to Dot feat. shully"
+		},
+		"garakuta": {
+			"en": "Garakuta Doll Play"
+		},
+		"ikazuchi": {
+			"en": "Ikazuchi",
+			"ja": "\u6012\u69cc"
+		},
+		"worldvanquisher": {
+			"en": "World Vanquisher"
+		},
+		"dreadnought": {
+			"en": "Dreadnought"
+		},
+		"particlearts": {
+			"en": "Particle Arts"
+		},
+		"vindication": {
+			"en": "Vindication"
+		},
+		"heavensdoor": {
+			"en": "Heavensdoor"
+		},
+		"ringedgenesis": {
+			"en": "Ringed Genesis"
+		},
+		"chelsea": {
+			"en": "Chelsea"
+		},
+		"aiueoon": {
+			"en": "AI[UE]OON"
+		},
+		"melodyoflove": {
+			"en": "A Wandering Melody of Love",
+			"ja": "\u8ff7\u3048\u308b\u97f3\u8272\u306f\u604b\u306e\u5504"
+		},
+		"tiemedowngently": {
+			"en": "Tie me down gently"
+		},
+		"valhallazero": {
+			"en": "Valhalla:0"
+		},
+		"mirzam": {
+			"en": "Mirzam"
+		},
+		"diode": {
+			"en": "Diode"
+		},
+		"freefall": {
+			"en": "FREEF4LL"
+		},
+		"gloryroad": {
+			"en": "GLORY\uff1aROAD"
+		},
+		"monochromeprincess": {
+			"en": "Monochrome Princess"
+		},
+		"heavenlycaress": {
+			"en": "Heavenly caress"
+		},
+		"senkyou": {
+			"en": "Senkyou"
+		},
+		"filament": {
+			"en": "Filament"
+		},
+		"avantraze": {
+			"en": "Avant Raze"
+		},
+		"battlenoone": {
+			"en": "BATTLE NO.1"
+		},
+		"laqryma": {
+			"en": "La'qryma of the Wasteland"
+		},
+		"einherjar": {
+			"en": "Einherjar Joker"
+		},
+		"izana": {
+			"en": "IZANA"
+		},
+		"saikyostronger": {
+			"en": "SAIKYO STRONGER",
+			"ja": "\u6700\u5f37STRONGER"
+		},
+		"worldexecuteme": {
+			"en": "world.execute(me);"
+		},
+		"blrink": {
+			"en": "BLRINK"
+		},
+		"oblivia": {
+			"en": "Oblivia"
+		},
+		"amygdata": {
+			"en": "amygdata"
+		},
+		"corpssansorganes": {
+			"en": "corps-sans-organes"
+		},
+		"equilibrium": {
+			"en": "Equilibrium"
+		},
+		"antagonism": {
+			"en": "Antagonism"
+		},
+		"lostdesire": {
+			"en": "Lost Desire"
+		},
+		"dantalion": {
+			"en": "Dantalion"
+		},
+		"ifi": {
+			"en": "#1f1e33"
+		},
+		"tempestissimo": {
+			"en": "Tempestissimo"
+		},
+		"arcahv": {
+			"en": "Arcahv"
+		},
+		"altale": {
+			"en": "Altale"
+		},
+		"givemeanightmare": {
+			"en": "Give Me a Nightmare"
+		},
+		"blacklotus": {
+			"en": "Black Lotus"
+		},
+		"gekka": {
+			"en": "Gekka (Short Version)"
+		},
+		"vividtheory": {
+			"en": "Vivid Theory"
+		},
+		"onefr": {
+			"en": "1F\u221a"
+		},
+		"scarletcage": {
+			"en": "Scarlet Cage"
+		},
+		"faintlight": {
+			"en": "Faint Light (Arcaea Edit)"
+		},
+		"feelssoright": {
+			"en": "Feels So Right feat. Renko"
+		},
+		"teriqma": {
+			"en": "Teriqma"
+		},
+		"mahoroba": {
+			"en": "MAHOROBA"
+		},
+		"badtek": {
+			"en": "BADTEK"
+		},
+		"maliciousmischance": {
+			"en": "Malicious Mischance"
+		},
+		"gothiveofra": {
+			"en": "Got hive of Ra"
+		},
+		"buchigireberserker": {
+			"en": "BUCHiGiRE Berserker"
+		},
+		"galaxyfriends": {
+			"en": "Galaxy Friends"
+		},
+		"crossover": {
+			"en": "CROSS\u2020OVER"
+		},
+		"xeraphinite": {
+			"en": "Xeraphinite"
+		},
+		"lapis": {
+			"en": "Lapis"
+		},
+		"xanatos": {
+			"en": "Xanatos"
+		},
+		"purpleverse": {
+			"en": "Purple Verse"
+		},
+		"alicealamode": {
+			"en": "Alice \u00e0 la mode",
+			"ko": "Alice a la mode"
+		},
+		"eccentrictale": {
+			"en": "Eccentric Tale"
+		},
+		"alicessuitcase": {
+			"en": "Alice's Suitcase"
+		},
+		"jump": {
+			"en": "Jump"
+		},
+		"felis": {
+			"en": "Felis"
+		},
+		"besideyou": {
+			"en": "Beside You"
+		},
+		"heartjackin": {
+			"en": "Heart Jackin'"
+		},
+		"toaliceliddell": {
+			"en": "To: Alice Liddell",
+			"ja": "\u30a2\u30ea\u30b9\u30fb\u30ea\u30c7\u30eb\u306b\u6367\u3050"
+		},
+		"lazyaddiction": {
+			"en": "Lazy Addiction"
+		},
+		"dazzlehop": {
+			"en": "Dazzle hop"
+		},
+		"viyellastears": {
+			"en": "Viyella's Tears"
+		},
+		"omegafour": {
+			"en": "\u03c94",
+			"zh-Hant": "w4",
+			"zh-Hans": "w4"
+		},
+		"aprilshowers": {
+			"en": "April showers",
+			"ja": "\u56db\u6708\u306e\u96e8"
+		},
+		"seventhsense": {
+			"en": "7thSense"
+		},
+		"oshamascramble": {
+			"en": "Oshama Scramble!"
+		},
+		"amazingmightyyyy": {
+			"en": "AMAZING MIGHTYYYY!!!!"
+		},
+		"climax": {
+			"en": "Climax"
+		},
+		"lastcelebration": {
+			"en": "Last Celebration"
+		},
+		"gou": {
+			"en": "Misdeed -la bont\u00e9 de Dieu et l'origine du mal-",
+			"ja": "\u696d -\u5584\u306a\u308b\u795e\u3068\u3053\u306e\u4e16\u306e\u60aa\u306b\u3064\u3044\u3066-"
+		},
+		"glow": {
+			"en": "Glow"
+		},
+		"attraqtia": {
+			"en": "AttraqtiA"
+		},
+		"enchantedlove": {
+			"en": "enchanted love"
+		},
+		"take": {
+			"en": "Bamboo",
+			"ja": "\u7af9"
+		},
+		"gimmedablood": {
+			"en": "GIMME DA BLOOD"
+		},
+		"bassline": {
+			"en": "Can I Friend You on Bassbook? Lol",
+			"ja": "\u30d9\u30fc\u30b9\u30e9\u30a4\u30f3\u3084\u3063\u3066\u308b\uff1f\uff57"
+		},
+		"lifeispiano": {
+			"en": "Life is PIANO"
+		},
+		"paperwitch": {
+			"en": "Paper Witch"
+		},
+		"crystalgravity": {
+			"en": "Crystal Gravity"
+		},
+		"farawaylight": {
+			"en": "Far Away Light"
+		},
+		"loschen": {
+			"en": "L\u00f6schen"
+		},
+		"aegleseeker": {
+			"en": "Aegleseeker"
+		},
+		"coastalhighway": {
+			"en": "Coastal Highway"
+		},
+		"odysseia": {
+			"en": "\u039f\u0394\u03a5\u03a3\u03a3\u0395\u0399\u0391"
+		},
+		"overwhelm": {
+			"en": "Overwhelm"
+		},
+		"vandalism": {
+			"en": "Vandalism"
+		},
+		"turbocharger": {
+			"en": "Turbocharger"
+		},
+		"theultimacy": {
+			"en": "THE ULTIMACY"
+		},
+		"rekkaresonance": {
+			"en": "REKKA RESONANCE",
+			"ja": "\u70c8\u83efRESONANCE"
+		},
+		"kyogenkigo": {
+			"en": "False Embellishment",
+			"ja": "\u72c2\u8a00\u7dba\u8a9e"
+		},
+		"hivemind": {
+			"en": "HIVEMIND"
+		},
+		"seclusion": {
+			"en": "Seclusion"
+		},
+		"smallcloud": {
+			"en": "Small Cloud Sugar Candy"
+		},
+		"alterale": {
+			"en": "AlterAle"
+		},
+		"divinelight": {
+			"en": "Divine Light of Myriad",
+			"ja": "\u5149\u901f\u795e\u6388\u8aac - Divine Light of Myriad -"
+		},
+		"mazymetroplex": {
+			"en": "Mazy Metroplex"
+		},
+		"quonwacca": {
+			"en": "Quon"
+		},
+		"withu": {
+			"en": "with U"
+		},
+		"genocider": {
+			"en": "GENOCIDER"
+		},
+		"letyoudivermx": {
+			"en": "Let you DIVE! (nitro rmx)"
+		},
+		"sheriruthrmx": {
+			"en": "Sheriruth (Laur Remix)"
+		},
+		"eveninginscarlet": {
+			"en": "Evening in Scarlet",
+			"ja": "\u7dcb\u7e8f\u3044\u306e\u5bb5"
+		},
+		"bluecomet": {
+			"en": "blue comet"
+		},
+		"energysynergymatrix": {
+			"en": "ENERGY SYNERGY MATRIX"
+		},
+		"gengaozo": {
+			"en": "G e n g a o z o"
+		},
+		"goldenslaughterer": {
+			"en": "goldenslaughterer"
+		},
+		"lastendconductor": {
+			"en": "lastendconductor"
+		},
+		"redolentshape": {
+			"en": "Redolent Shape"
+		},
+		"cosmica": {
+			"en": "Cosmica"
+		},
+		"ascent": {
+			"en": "Ascent"
+		},
+		"livefastdieyoung": {
+			"en": "Live Fast Die Young"
+		},
+		"summerfireworks": {
+			"en": "Summer Fireworks of Love",
+			"ja": "\u5f69\u308b\u590f\u306e\u604b\u82b1\u706b"
+		},
+		"firstsnow": {
+			"en": "First Snow"
+		},
+		"bluerose": {
+			"en": "Blue Rose"
+		},
+		"blockedlibrary": {
+			"en": "Blocked Library"
+		},
+		"neokosmo": {
+			"en": "n\u03ad\u03bf \u03ba\u03ccsmo",
+			"ko": "neo kosmo",
+			"zh-Hant": "neo kosmo",
+			"zh-Hans": "neo kosmo"
+		},
+		"lightningscrew": {
+			"en": "Lightning Screw"
+		},
+		"lightsofmuse": {
+			"en": "Lights of Muse"
+		},
+		"finalstep": {
+			"en": "Final Step!"
+		},
+		"akinokagerou": {
+			"en": "Haze of Autumn",
+			"ja": "\u79cb\u306e\u967d\u708e"
+		},
+		"medusa": {
+			"en": "Medusa"
+		},
+		"init": {
+			"en": "init()"
+		},
+		"internetoverdose": {
+			"en": "INTERNET OVERDOSE"
+		},
+		"sakurafubuki": {
+			"en": "Sakura Fubuki"
+		},
+		"nulctrl": {
+			"en": "NULCTRL"
+		},
+		"macromod": {
+			"en": "Macrocosmic Modulation"
+		},
+		"neowings": {
+			"en": "NEO WINGS"
+		},
+		"kissinglucifer": {
+			"en": "Kissing Lucifer"
+		},
+		"avril": {
+			"en": "\u00c4vril -Flicka i krans-"
+		}
+	},
+	"userinfo": {
+		"user_id": 496875,
+		"name": "AquariusAQ",
+		"recent_score": [{
+			"song_id": "alicessuitcase",
+			"difficulty": 2,
+			"score": 9885747,
+			"shiny_perfect_count": 863,
+			"perfect_count": 977,
+			"near_count": 21,
+			"miss_count": 1,
+			"clear_type": 1,
+			"best_clear_type": 5,
+			"health": 100,
+			"time_played": 1647158000432,
+			"modifier": 0,
+			"rating": 10.528735,
+			"constant": 9.1,
+			"song_date": 1606953602
+		}],
+		"character": 7,
+		"join_date": 1527004054572,
+		"rating": 1081,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"is_char_uncapped_override": false,
+		"is_mutual": false,
+		"user_code": "203831759",
+		"rating_records": [
+			["190314", 727],
+			["211116", 1034],
+			["211117", 1051],
+			["220204", 1051],
+			["220312", 1078],
+			["220313", 1079]
+		]
+	},
+	"scores": [{
+		"user_id": 496875,
+		"song_id": "melodyoflove",
+		"difficulty": 2,
+		"score": 9947102,
+		"shiny_perfect_count": 808,
+		"perfect_count": 921,
+		"near_count": 10,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647074203565,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.7,
+		"rating": 11.435509999999999,
+		"song_date": 1566432002
+	}, {
+		"user_id": 496875,
+		"song_id": "dreaminattraction",
+		"difficulty": 2,
+		"score": 9912433,
+		"shiny_perfect_count": 1007,
+		"perfect_count": 1116,
+		"near_count": 6,
+		"miss_count": 7,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647140587281,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.6,
+		"rating": 11.162165,
+		"song_date": 1509667201
+	}, {
+		"user_id": 496875,
+		"song_id": "grievouslady",
+		"difficulty": 1,
+		"score": 9971790,
+		"shiny_perfect_count": 1104,
+		"perfect_count": 1188,
+		"near_count": 5,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647049605989,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.3,
+		"rating": 11.15895,
+		"song_date": 1509667208
+	}, {
+		"user_id": 496875,
+		"song_id": "aiueoon",
+		"difficulty": 2,
+		"score": 9919970,
+		"shiny_perfect_count": 860,
+		"perfect_count": 976,
+		"near_count": 10,
+		"miss_count": 3,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647073704578,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.5,
+		"rating": 11.09985,
+		"song_date": 1566432001
+	}, {
+		"user_id": 496875,
+		"song_id": "sakurafubuki",
+		"difficulty": 2,
+		"score": 9958929,
+		"shiny_perfect_count": 746,
+		"perfect_count": 831,
+		"near_count": 5,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647152117793,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.3,
+		"rating": 11.094645,
+		"song_date": 1645056001
+	}, {
+		"user_id": 496875,
+		"song_id": "goodtek",
+		"difficulty": 2,
+		"score": 9933690,
+		"shiny_perfect_count": 839,
+		"perfect_count": 958,
+		"near_count": 7,
+		"miss_count": 3,
+		"health": 83,
+		"modifier": 2,
+		"time_played": 1637151521315,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.3,
+		"rating": 10.96845,
+		"song_date": 1487980809
+	}, {
+		"user_id": 496875,
+		"song_id": "essenceoftwilight",
+		"difficulty": 2,
+		"score": 9963716,
+		"shiny_perfect_count": 1092,
+		"perfect_count": 1196,
+		"near_count": 7,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1646990671256,
+		"best_clear_type": 2,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.1,
+		"rating": 10.91858,
+		"song_date": 1487980816
+	}, {
+		"user_id": 496875,
+		"song_id": "jump",
+		"difficulty": 2,
+		"score": 9977002,
+		"shiny_perfect_count": 784,
+		"perfect_count": 837,
+		"near_count": 4,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647074690105,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9,
+		"rating": 10.88501,
+		"song_date": 1606953603
+	}, {
+		"user_id": 496875,
+		"song_id": "darakunosono",
+		"difficulty": 2,
+		"score": 9854774,
+		"shiny_perfect_count": 863,
+		"perfect_count": 1034,
+		"near_count": 23,
+		"miss_count": 4,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1643794816112,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.6,
+		"rating": 10.87387,
+		"song_date": 1531699202
+	}, {
+		"user_id": 496875,
+		"song_id": "felis",
+		"difficulty": 2,
+		"score": 9641011,
+		"shiny_perfect_count": 942,
+		"perfect_count": 1098,
+		"near_count": 27,
+		"miss_count": 28,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1647077100514,
+		"best_clear_type": 1,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 10.4,
+		"rating": 10.870036666666667,
+		"song_date": 1606953604
+	}, {
+		"user_id": 496875,
+		"song_id": "lapis",
+		"difficulty": 2,
+		"score": 9892104,
+		"shiny_perfect_count": 800,
+		"perfect_count": 903,
+		"near_count": 14,
+		"miss_count": 3,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647051595201,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.4,
+		"rating": 10.860520000000001,
+		"song_date": 1604016000
+	}, {
+		"user_id": 496875,
+		"song_id": "crossover",
+		"difficulty": 2,
+		"score": 9891314,
+		"shiny_perfect_count": 1004,
+		"perfect_count": 1079,
+		"near_count": 6,
+		"miss_count": 9,
+		"health": 56,
+		"modifier": 2,
+		"time_played": 1647050169052,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.4,
+		"rating": 10.85657,
+		"song_date": 1602028801
+	}, {
+		"user_id": 496875,
+		"song_id": "chronostasis",
+		"difficulty": 2,
+		"score": 9940767,
+		"shiny_perfect_count": 811,
+		"perfect_count": 905,
+		"near_count": 11,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647089999906,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.1,
+		"rating": 10.803835,
+		"song_date": 1496188800
+	}, {
+		"user_id": 496875,
+		"song_id": "alicealamode",
+		"difficulty": 2,
+		"score": 9909012,
+		"shiny_perfect_count": 756,
+		"perfect_count": 858,
+		"near_count": 12,
+		"miss_count": 2,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1647156617549,
+		"best_clear_type": 5,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.2,
+		"rating": 10.745059999999999,
+		"song_date": 1606953600
+	}, {
+		"user_id": 496875,
+		"song_id": "iconoclast",
+		"difficulty": 2,
+		"score": 9925251,
+		"shiny_perfect_count": 723,
+		"perfect_count": 787,
+		"near_count": 4,
+		"miss_count": 4,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1637127232027,
+		"best_clear_type": 5,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.1,
+		"rating": 10.726255,
+		"song_date": 1509667203
+	}, {
+		"user_id": 496875,
+		"song_id": "lostcivilization",
+		"difficulty": 2,
+		"score": 9904481,
+		"shiny_perfect_count": 830,
+		"perfect_count": 967,
+		"near_count": 19,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1637152185439,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.2,
+		"rating": 10.722404999999998,
+		"song_date": 1487980808
+	}, {
+		"user_id": 496875,
+		"song_id": "antithese",
+		"difficulty": 2,
+		"score": 9983728,
+		"shiny_perfect_count": 832,
+		"perfect_count": 874,
+		"near_count": 3,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1646989962006,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.8,
+		"rating": 10.71864,
+		"song_date": 1553126402
+	}, {
+		"user_id": 496875,
+		"song_id": "givemeanightmare",
+		"difficulty": 2,
+		"score": 9942855,
+		"shiny_perfect_count": 872,
+		"perfect_count": 938,
+		"near_count": 9,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647062916519,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9,
+		"rating": 10.714275,
+		"song_date": 1590537610
+	}, {
+		"user_id": 496875,
+		"song_id": "alicessuitcase",
+		"difficulty": 2,
+		"score": 9920828,
+		"shiny_perfect_count": 909,
+		"perfect_count": 986,
+		"near_count": 10,
+		"miss_count": 3,
+		"health": 95,
+		"modifier": 2,
+		"time_played": 1647152912042,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.1,
+		"rating": 10.704139999999999,
+		"song_date": 1606953602
+	}, {
+		"user_id": 496875,
+		"song_id": "blockedlibrary",
+		"difficulty": 2,
+		"score": 9877246,
+		"shiny_perfect_count": 776,
+		"perfect_count": 834,
+		"near_count": 11,
+		"miss_count": 5,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647090923133,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.3,
+		"rating": 10.68623,
+		"song_date": 1639008002
+	}, {
+		"user_id": 496875,
+		"song_id": "rugie",
+		"difficulty": 2,
+		"score": 9893209,
+		"shiny_perfect_count": 902,
+		"perfect_count": 959,
+		"near_count": 11,
+		"miss_count": 5,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1637425426415,
+		"best_clear_type": 5,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.2,
+		"rating": 10.666044999999999,
+		"song_date": 1541635200
+	}, {
+		"user_id": 496875,
+		"song_id": "kanagawa",
+		"difficulty": 2,
+		"score": 9929015,
+		"shiny_perfect_count": 1023,
+		"perfect_count": 1098,
+		"near_count": 10,
+		"miss_count": 3,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1637152458290,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9,
+		"rating": 10.645075,
+		"song_date": 1496188801
+	}, {
+		"user_id": 496875,
+		"song_id": "ignotus",
+		"difficulty": 2,
+		"score": 9854114,
+		"shiny_perfect_count": 1053,
+		"perfect_count": 1196,
+		"near_count": 22,
+		"miss_count": 7,
+		"health": 94,
+		"modifier": 2,
+		"time_played": 1637155608108,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.3,
+		"rating": 10.57057,
+		"song_date": 1500163200
+	}, {
+		"user_id": 496875,
+		"song_id": "redandblue",
+		"difficulty": 2,
+		"score": 9829170,
+		"shiny_perfect_count": 768,
+		"perfect_count": 827,
+		"near_count": 7,
+		"miss_count": 11,
+		"health": 46,
+		"modifier": 2,
+		"time_played": 1637154708992,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.4,
+		"rating": 10.54585,
+		"song_date": 1509667202
+	}, {
+		"user_id": 496875,
+		"song_id": "vividtheory",
+		"difficulty": 2,
+		"score": 9944323,
+		"shiny_perfect_count": 821,
+		"perfect_count": 878,
+		"near_count": 4,
+		"miss_count": 3,
+		"health": 98,
+		"modifier": 2,
+		"time_played": 1637150914357,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.8,
+		"rating": 10.521615,
+		"song_date": 1590537607
+	}, {
+		"user_id": 496875,
+		"song_id": "worldexecuteme",
+		"difficulty": 2,
+		"score": 10000800,
+		"shiny_perfect_count": 800,
+		"perfect_count": 851,
+		"near_count": 0,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647013936367,
+		"best_clear_type": 3,
+		"clear_type": 3,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.5,
+		"rating": 10.5,
+		"song_date": 1582243200
+	}, {
+		"user_id": 496875,
+		"song_id": "anokumene",
+		"difficulty": 2,
+		"score": 9853835,
+		"shiny_perfect_count": 722,
+		"perfect_count": 831,
+		"near_count": 15,
+		"miss_count": 5,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1637152689701,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.2,
+		"rating": 10.469175,
+		"song_date": 1491868801
+	}, {
+		"user_id": 496875,
+		"song_id": "qualia",
+		"difficulty": 2,
+		"score": 9859025,
+		"shiny_perfect_count": 904,
+		"perfect_count": 996,
+		"near_count": 23,
+		"miss_count": 3,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636986848682,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.1,
+		"rating": 10.395125,
+		"song_date": 1487980810
+	}, {
+		"user_id": 496875,
+		"song_id": "gekka",
+		"difficulty": 2,
+		"score": 9957890,
+		"shiny_perfect_count": 730,
+		"perfect_count": 811,
+		"near_count": 5,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647065398525,
+		"best_clear_type": 2,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.6,
+		"rating": 10.38945,
+		"song_date": 1590537609
+	}, {
+		"user_id": 496875,
+		"song_id": "xeraphinite",
+		"difficulty": 2,
+		"score": 9676414,
+		"shiny_perfect_count": 842,
+		"perfect_count": 997,
+		"near_count": 34,
+		"miss_count": 17,
+		"health": 66,
+		"modifier": 2,
+		"time_played": 1623551262750,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.8,
+		"rating": 10.388046666666668,
+		"song_date": 1604016001
+	}, {
+		"user_id": 496875,
+		"song_id": "faintlight",
+		"difficulty": 2,
+		"score": 9852343,
+		"shiny_perfect_count": 675,
+		"perfect_count": 790,
+		"near_count": 14,
+		"miss_count": 5,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647050810437,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.1,
+		"rating": 10.361715,
+		"song_date": 1594166400
+	}, {
+		"user_id": 496875,
+		"song_id": "bassline",
+		"difficulty": 2,
+		"score": 9809126,
+		"shiny_perfect_count": 764,
+		"perfect_count": 840,
+		"near_count": 9,
+		"miss_count": 12,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1647096026391,
+		"best_clear_type": 5,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.3,
+		"rating": 10.34563,
+		"song_date": 1617926400
+	}, {
+		"user_id": 496875,
+		"song_id": "lifeispiano",
+		"difficulty": 2,
+		"score": 9844735,
+		"shiny_perfect_count": 522,
+		"perfect_count": 655,
+		"near_count": 17,
+		"miss_count": 2,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1637423006587,
+		"best_clear_type": 5,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.1,
+		"rating": 10.323675,
+		"song_date": 1617926401
+	}, {
+		"user_id": 496875,
+		"song_id": "pragmatism",
+		"difficulty": 1,
+		"score": 9930586,
+		"shiny_perfect_count": 762,
+		"perfect_count": 844,
+		"near_count": 10,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636731938978,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.6,
+		"rating": 10.25293,
+		"song_date": 1487980817
+	}, {
+		"user_id": 496875,
+		"song_id": "cyaegha",
+		"difficulty": 1,
+		"score": 9970405,
+		"shiny_perfect_count": 893,
+		"perfect_count": 978,
+		"near_count": 6,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647049263152,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.4,
+		"rating": 10.252025,
+		"song_date": 1553126406
+	}, {
+		"user_id": 496875,
+		"song_id": "solitarydream",
+		"difficulty": 2,
+		"score": 9887636,
+		"shiny_perfect_count": 805,
+		"perfect_count": 951,
+		"near_count": 20,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636721808375,
+		"best_clear_type": 2,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.8,
+		"rating": 10.23818,
+		"song_date": 1552089600
+	}, {
+		"user_id": 496875,
+		"song_id": "axiumcrisis",
+		"difficulty": 1,
+		"score": 9944619,
+		"shiny_perfect_count": 958,
+		"perfect_count": 1053,
+		"near_count": 12,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1611930371087,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.5,
+		"rating": 10.223095,
+		"song_date": 1509667207
+	}, {
+		"user_id": 496875,
+		"song_id": "syro",
+		"difficulty": 2,
+		"score": 9774918,
+		"shiny_perfect_count": 1005,
+		"perfect_count": 1104,
+		"near_count": 40,
+		"miss_count": 6,
+		"health": 93,
+		"modifier": 2,
+		"time_played": 1647152375284,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.3,
+		"rating": 10.216393333333334,
+		"song_date": 1513814401
+	}, {
+		"user_id": 496875,
+		"song_id": "senkyou",
+		"difficulty": 2,
+		"score": 9891910,
+		"shiny_perfect_count": 832,
+		"perfect_count": 943,
+		"near_count": 21,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636981367489,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.7,
+		"rating": 10.15955,
+		"song_date": 1574121600
+	}, {
+		"user_id": 496875,
+		"song_id": "enchantedlove",
+		"difficulty": 2,
+		"score": 9947989,
+		"shiny_perfect_count": 690,
+		"perfect_count": 754,
+		"near_count": 2,
+		"miss_count": 3,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647066648744,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.4,
+		"rating": 10.139945,
+		"song_date": 1613001600
+	}, {
+		"user_id": 496875,
+		"song_id": "axiumcrisis",
+		"difficulty": 2,
+		"score": 9269558,
+		"shiny_perfect_count": 820,
+		"perfect_count": 983,
+		"near_count": 62,
+		"miss_count": 49,
+		"health": 100,
+		"modifier": 1,
+		"time_played": 1643956502445,
+		"best_clear_type": 4,
+		"clear_type": 4,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 10.9,
+		"rating": 10.13186,
+		"song_date": 1509667207
+	}, {
+		"user_id": 496875,
+		"song_id": "shadesoflight",
+		"difficulty": 2,
+		"score": 9963507,
+		"shiny_perfect_count": 996,
+		"perfect_count": 1060,
+		"near_count": 6,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1637075992049,
+		"best_clear_type": 2,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.3,
+		"rating": 10.117535,
+		"song_date": 1487980806
+	}, {
+		"user_id": 496875,
+		"song_id": "harutopia",
+		"difficulty": 2,
+		"score": 9916143,
+		"shiny_perfect_count": 969,
+		"perfect_count": 1045,
+		"near_count": 14,
+		"miss_count": 2,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1637118555559,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.5,
+		"rating": 10.080715,
+		"song_date": 1502323200
+	}, {
+		"user_id": 496875,
+		"song_id": "bluerose",
+		"difficulty": 2,
+		"score": 9786154,
+		"shiny_perfect_count": 814,
+		"perfect_count": 920,
+		"near_count": 29,
+		"miss_count": 6,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647078981972,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.1,
+		"rating": 10.053846666666667,
+		"song_date": 1639008001
+	}, {
+		"user_id": 496875,
+		"song_id": "eccentrictale",
+		"difficulty": 2,
+		"score": 9925489,
+		"shiny_perfect_count": 626,
+		"perfect_count": 721,
+		"near_count": 11,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647151893827,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.4,
+		"rating": 10.027445,
+		"song_date": 1606953601
+	}, {
+		"user_id": 496875,
+		"song_id": "lumia",
+		"difficulty": 2,
+		"score": 9922833,
+		"shiny_perfect_count": 877,
+		"perfect_count": 946,
+		"near_count": 15,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1637064197453,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.4,
+		"rating": 10.014165,
+		"song_date": 1487980815
+	}, {
+		"user_id": 496875,
+		"song_id": "blaster",
+		"difficulty": 2,
+		"score": 9711420,
+		"shiny_perfect_count": 842,
+		"perfect_count": 950,
+		"near_count": 46,
+		"miss_count": 6,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1647094201529,
+		"best_clear_type": 5,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.3,
+		"rating": 10.004733333333334,
+		"song_date": 1520553600
+	}, {
+		"user_id": 496875,
+		"song_id": "energysynergymatrix",
+		"difficulty": 2,
+		"score": 9621134,
+		"shiny_perfect_count": 744,
+		"perfect_count": 869,
+		"near_count": 36,
+		"miss_count": 17,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1647157404563,
+		"best_clear_type": 1,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.6,
+		"rating": 10.003779999999999,
+		"song_date": 1631059200
+	}, {
+		"user_id": 496875,
+		"song_id": "purgatorium",
+		"difficulty": 2,
+		"score": 9919499,
+		"shiny_perfect_count": 883,
+		"perfect_count": 968,
+		"near_count": 14,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1637064560362,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.4,
+		"rating": 9.997495,
+		"song_date": 1537142400
+	}, {
+		"user_id": 496875,
+		"song_id": "freefall",
+		"difficulty": 2,
+		"score": 9878685,
+		"shiny_perfect_count": 875,
+		"perfect_count": 999,
+		"near_count": 23,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636983536887,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.6,
+		"rating": 9.993425,
+		"song_date": 1570492801
+	}, {
+		"user_id": 496875,
+		"song_id": "onefr",
+		"difficulty": 2,
+		"score": 9954532,
+		"shiny_perfect_count": 707,
+		"perfect_count": 751,
+		"near_count": 7,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647065650467,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.2,
+		"rating": 9.97266,
+		"song_date": 1590537608
+	}, {
+		"user_id": 496875,
+		"song_id": "bookmaker",
+		"difficulty": 2,
+		"score": 9934317,
+		"shiny_perfect_count": 1043,
+		"perfect_count": 1113,
+		"near_count": 7,
+		"miss_count": 4,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1613023249334,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.3,
+		"rating": 9.971585000000001,
+		"song_date": 1531699201
+	}, {
+		"user_id": 496875,
+		"song_id": "dandelion",
+		"difficulty": 2,
+		"score": 9892206,
+		"shiny_perfect_count": 784,
+		"perfect_count": 903,
+		"near_count": 16,
+		"miss_count": 2,
+		"health": 92,
+		"modifier": 2,
+		"time_played": 1637063858684,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.5,
+		"rating": 9.96103,
+		"song_date": 1489968000
+	}, {
+		"user_id": 496875,
+		"song_id": "relentless",
+		"difficulty": 2,
+		"score": 9991109,
+		"shiny_perfect_count": 962,
+		"perfect_count": 1013,
+		"near_count": 2,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1643652427321,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8,
+		"rating": 9.955545,
+		"song_date": 1487980814
+	}, {
+		"user_id": 496875,
+		"song_id": "kyogenkigo",
+		"difficulty": 2,
+		"score": 9691210,
+		"shiny_perfect_count": 808,
+		"perfect_count": 929,
+		"near_count": 20,
+		"miss_count": 20,
+		"health": 23,
+		"modifier": 2,
+		"time_played": 1647052085180,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.3,
+		"rating": 9.937366666666668,
+		"song_date": 1626825604
+	}, {
+		"user_id": 496875,
+		"song_id": "avril",
+		"difficulty": 2,
+		"score": 9924368,
+		"shiny_perfect_count": 749,
+		"perfect_count": 839,
+		"near_count": 11,
+		"miss_count": 1,
+		"health": 99,
+		"modifier": 2,
+		"time_played": 1647093159751,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.3,
+		"rating": 9.921840000000001,
+		"song_date": 1645056000
+	}, {
+		"user_id": 496875,
+		"song_id": "tiemedowngently",
+		"difficulty": 2,
+		"score": 9917782,
+		"shiny_perfect_count": 655,
+		"perfect_count": 712,
+		"near_count": 12,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647073943565,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.3,
+		"rating": 9.888910000000001,
+		"song_date": 1566432003
+	}, {
+		"user_id": 496875,
+		"song_id": "grimheart",
+		"difficulty": 2,
+		"score": 9849630,
+		"shiny_perfect_count": 830,
+		"perfect_count": 935,
+		"near_count": 19,
+		"miss_count": 5,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636706047886,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.6,
+		"rating": 9.84815,
+		"song_date": 1553126400
+	}, {
+		"user_id": 496875,
+		"song_id": "babaroque",
+		"difficulty": 2,
+		"score": 9864525,
+		"shiny_perfect_count": 664,
+		"perfect_count": 786,
+		"near_count": 22,
+		"miss_count": 0,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636982052737,
+		"best_clear_type": 2,
+		"clear_type": 2,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.5,
+		"rating": 9.822625,
+		"song_date": 1487980807
+	}, {
+		"user_id": 496875,
+		"song_id": "oblivia",
+		"difficulty": 2,
+		"score": 9901459,
+		"shiny_perfect_count": 832,
+		"perfect_count": 940,
+		"near_count": 13,
+		"miss_count": 3,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636856308135,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.3,
+		"rating": 9.807295,
+		"song_date": 1585094400
+	}, {
+		"user_id": 496875,
+		"song_id": "aprilshowers",
+		"difficulty": 2,
+		"score": 9900210,
+		"shiny_perfect_count": 641,
+		"perfect_count": 688,
+		"near_count": 4,
+		"miss_count": 5,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647151711860,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.3,
+		"rating": 9.80105,
+		"song_date": 1610064000
+	}, {
+		"user_id": 496875,
+		"song_id": "espebranch",
+		"difficulty": 2,
+		"score": 9556636,
+		"shiny_perfect_count": 871,
+		"perfect_count": 997,
+		"near_count": 28,
+		"miss_count": 33,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1637424959743,
+		"best_clear_type": 1,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.6,
+		"rating": 9.788786666666667,
+		"song_date": 1535673600
+	}, {
+		"user_id": 496875,
+		"song_id": "chelsea",
+		"difficulty": 2,
+		"score": 9854381,
+		"shiny_perfect_count": 535,
+		"perfect_count": 632,
+		"near_count": 17,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1647070845909,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.5,
+		"rating": 9.771905,
+		"song_date": 1566432000
+	}, {
+		"user_id": 496875,
+		"song_id": "vector",
+		"difficulty": 2,
+		"score": 9608472,
+		"shiny_perfect_count": 1082,
+		"perfect_count": 1222,
+		"near_count": 52,
+		"miss_count": 25,
+		"health": 78,
+		"modifier": 0,
+		"time_played": 1647093388004,
+		"best_clear_type": 1,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.4,
+		"rating": 9.761573333333335,
+		"song_date": 1556755200
+	}, {
+		"user_id": 496875,
+		"song_id": "rabbitintheblackroom",
+		"difficulty": 2,
+		"score": 9871102,
+		"shiny_perfect_count": 636,
+		"perfect_count": 755,
+		"near_count": 14,
+		"miss_count": 3,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636647984916,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.4,
+		"rating": 9.755510000000001,
+		"song_date": 1505520000
+	}, {
+		"user_id": 496875,
+		"song_id": "hearditsaid",
+		"difficulty": 2,
+		"score": 9919764,
+		"shiny_perfect_count": 783,
+		"perfect_count": 851,
+		"near_count": 12,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636722039678,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.1,
+		"rating": 9.69882,
+		"song_date": 1487980812
+	}, {
+		"user_id": 496875,
+		"song_id": "cyberneciacatharsis",
+		"difficulty": 2,
+		"score": 9556739,
+		"shiny_perfect_count": 714,
+		"perfect_count": 876,
+		"near_count": 56,
+		"miss_count": 14,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1647093976713,
+		"best_clear_type": 5,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.5,
+		"rating": 9.68913,
+		"song_date": 1527811200
+	}, {
+		"user_id": 496875,
+		"song_id": "blacklotus",
+		"difficulty": 2,
+		"score": 9492971,
+		"shiny_perfect_count": 744,
+		"perfect_count": 887,
+		"near_count": 58,
+		"miss_count": 20,
+		"health": 99,
+		"modifier": 0,
+		"time_played": 1637564252131,
+		"best_clear_type": 1,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.7,
+		"rating": 9.67657,
+		"song_date": 1590537611
+	}, {
+		"user_id": 496875,
+		"song_id": "snowwhite",
+		"difficulty": 2,
+		"score": 9847452,
+		"shiny_perfect_count": 827,
+		"perfect_count": 949,
+		"near_count": 28,
+		"miss_count": 1,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1637119139264,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.4,
+		"rating": 9.63726,
+		"song_date": 1487980805
+	}, {
+		"user_id": 496875,
+		"song_id": "bluecomet",
+		"difficulty": 2,
+		"score": 9884727,
+		"shiny_perfect_count": 707,
+		"perfect_count": 763,
+		"near_count": 8,
+		"miss_count": 5,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1637120961050,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.2,
+		"rating": 9.623635,
+		"song_date": 1629849601
+	}, {
+		"user_id": 496875,
+		"song_id": "reinvent",
+		"difficulty": 2,
+		"score": 9824639,
+		"shiny_perfect_count": 696,
+		"perfect_count": 826,
+		"near_count": 22,
+		"miss_count": 4,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636648166237,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.5,
+		"rating": 9.623195,
+		"song_date": 1513814400
+	}, {
+		"user_id": 496875,
+		"song_id": "diode",
+		"difficulty": 2,
+		"score": 9901893,
+		"shiny_perfect_count": 624,
+		"perfect_count": 697,
+		"near_count": 10,
+		"miss_count": 2,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1637064875232,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.1,
+		"rating": 9.609465,
+		"song_date": 1570492800
+	}, {
+		"user_id": 496875,
+		"song_id": "gengaozo",
+		"difficulty": 2,
+		"score": 9291309,
+		"shiny_perfect_count": 844,
+		"perfect_count": 1197,
+		"near_count": 120,
+		"miss_count": 36,
+		"health": 98,
+		"modifier": 0,
+		"time_played": 1637126262162,
+		"best_clear_type": 5,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 10.3,
+		"rating": 9.604363333333334,
+		"song_date": 1632873600
+	}, {
+		"user_id": 496875,
+		"song_id": "trappola",
+		"difficulty": 2,
+		"score": 9378177,
+		"shiny_perfect_count": 783,
+		"perfect_count": 945,
+		"near_count": 68,
+		"miss_count": 31,
+		"health": 100,
+		"modifier": 1,
+		"time_played": 1643956859976,
+		"best_clear_type": 4,
+		"clear_type": 4,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 10,
+		"rating": 9.593923333333333,
+		"song_date": 1509667205
+	}, {
+		"user_id": 496875,
+		"song_id": "monochromeprincess",
+		"difficulty": 2,
+		"score": 9492498,
+		"shiny_perfect_count": 712,
+		"perfect_count": 890,
+		"near_count": 69,
+		"miss_count": 15,
+		"health": 87,
+		"modifier": 2,
+		"time_played": 1637076637311,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.6,
+		"rating": 9.574993333333333,
+		"song_date": 1572048000
+	}, {
+		"user_id": 496875,
+		"song_id": "lucifer",
+		"difficulty": 2,
+		"score": 9867188,
+		"shiny_perfect_count": 754,
+		"perfect_count": 842,
+		"near_count": 15,
+		"miss_count": 4,
+		"health": 93,
+		"modifier": 2,
+		"time_played": 1637078704991,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.2,
+		"rating": 9.53594,
+		"song_date": 1487980804
+	}, {
+		"user_id": 496875,
+		"song_id": "onelastdrive",
+		"difficulty": 2,
+		"score": 9842584,
+		"shiny_perfect_count": 777,
+		"perfect_count": 859,
+		"near_count": 24,
+		"miss_count": 2,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636647669586,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.2,
+		"rating": 9.41292,
+		"song_date": 1509667200
+	}, {
+		"user_id": 496875,
+		"song_id": "seventhsense",
+		"difficulty": 2,
+		"score": 9352078,
+		"shiny_perfect_count": 727,
+		"perfect_count": 845,
+		"near_count": 40,
+		"miss_count": 40,
+		"health": 78,
+		"modifier": 0,
+		"time_played": 1647157174995,
+		"best_clear_type": 1,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.9,
+		"rating": 9.406926666666667,
+		"song_date": 1610064001
+	}, {
+		"user_id": 496875,
+		"song_id": "revixy",
+		"difficulty": 2,
+		"score": 9614041,
+		"shiny_perfect_count": 861,
+		"perfect_count": 991,
+		"near_count": 31,
+		"miss_count": 25,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1637128081148,
+		"best_clear_type": 1,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9,
+		"rating": 9.380136666666667,
+		"song_date": 1553126401
+	}, {
+		"user_id": 496875,
+		"song_id": "soundwitch",
+		"difficulty": 2,
+		"score": 9293502,
+		"shiny_perfect_count": 509,
+		"perfect_count": 683,
+		"near_count": 93,
+		"miss_count": 9,
+		"health": 92,
+		"modifier": 2,
+		"time_played": 1647018090496,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.9,
+		"rating": 9.211673333333334,
+		"song_date": 1509667204
+	}, {
+		"user_id": 496875,
+		"song_id": "viyella",
+		"difficulty": 2,
+		"score": 9709862,
+		"shiny_perfect_count": 634,
+		"perfect_count": 749,
+		"near_count": 38,
+		"miss_count": 4,
+		"health": 100,
+		"modifier": 2,
+		"time_played": 1636719188906,
+		"best_clear_type": 5,
+		"clear_type": 5,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.5,
+		"rating": 9.19954,
+		"song_date": 1487980811
+	}, {
+		"user_id": 496875,
+		"song_id": "vandalism",
+		"difficulty": 2,
+		"score": 9333851,
+		"shiny_perfect_count": 825,
+		"perfect_count": 976,
+		"near_count": 77,
+		"miss_count": 34,
+		"health": 94,
+		"modifier": 0,
+		"time_played": 1647000644232,
+		"best_clear_type": 1,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.7,
+		"rating": 9.14617,
+		"song_date": 1620691208
+	}, {
+		"user_id": 496875,
+		"song_id": "turbocharger",
+		"difficulty": 2,
+		"score": 9541088,
+		"shiny_perfect_count": 741,
+		"perfect_count": 905,
+		"near_count": 58,
+		"miss_count": 16,
+		"health": 100,
+		"modifier": 0,
+		"time_played": 1637042376808,
+		"best_clear_type": 5,
+		"clear_type": 1,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.9,
+		"rating": 9.03696,
+		"song_date": 1623283200
+	}, {
+		"user_id": 496875,
+		"song_id": "sheriruth",
+		"difficulty": 2,
+		"score": 9149400,
+		"shiny_perfect_count": 834,
+		"perfect_count": 1009,
+		"near_count": 88,
+		"miss_count": 54,
+		"health": 94,
+		"modifier": 1,
+		"time_played": 1643957032297,
+		"best_clear_type": 4,
+		"clear_type": 4,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 10.2,
+		"rating": 9.031333333333333,
+		"song_date": 1487980818
+	}, {
+		"user_id": 496875,
+		"song_id": "corruption",
+		"difficulty": 2,
+		"score": 9192852,
+		"shiny_perfect_count": 1050,
+		"perfect_count": 1163,
+		"near_count": 51,
+		"miss_count": 79,
+		"health": 88,
+		"modifier": 1,
+		"time_played": 1612854563301,
+		"best_clear_type": 4,
+		"clear_type": 4,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.9,
+		"rating": 8.876173333333334,
+		"song_date": 1553126404
+	}, {
+		"user_id": 496875,
+		"song_id": "nhelv",
+		"difficulty": 2,
+		"score": 9143448,
+		"shiny_perfect_count": 849,
+		"perfect_count": 972,
+		"near_count": 82,
+		"miss_count": 54,
+		"health": 1,
+		"modifier": 0,
+		"time_played": 1647093621883,
+		"best_clear_type": 0,
+		"clear_type": 0,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.9,
+		"rating": 8.711493333333333,
+		"song_date": 1533859200
+	}, {
+		"user_id": 496875,
+		"song_id": "glow",
+		"difficulty": 2,
+		"score": 9252821,
+		"shiny_perfect_count": 638,
+		"perfect_count": 811,
+		"near_count": 73,
+		"miss_count": 32,
+		"health": 57,
+		"modifier": 0,
+		"time_played": 1637039636347,
+		"best_clear_type": 0,
+		"clear_type": 0,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.3,
+		"rating": 8.47607,
+		"song_date": 1611187204
+	}, {
+		"user_id": 496875,
+		"song_id": "viciousheroism",
+		"difficulty": 2,
+		"score": 8913826,
+		"shiny_perfect_count": 783,
+		"perfect_count": 953,
+		"near_count": 144,
+		"miss_count": 53,
+		"health": 61,
+		"modifier": 0,
+		"time_played": 1612857961140,
+		"best_clear_type": 4,
+		"clear_type": 0,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 10,
+		"rating": 8.046086666666667,
+		"song_date": 1553126405
+	}, {
+		"user_id": 496875,
+		"song_id": "memoryfactory",
+		"difficulty": 2,
+		"score": 9234098,
+		"shiny_perfect_count": 468,
+		"perfect_count": 590,
+		"near_count": 61,
+		"miss_count": 21,
+		"health": 100,
+		"modifier": 1,
+		"time_played": 1600168103027,
+		"best_clear_type": 5,
+		"clear_type": 4,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 8.9,
+		"rating": 8.01366,
+		"song_date": 1487980813
+	}, {
+		"user_id": 496875,
+		"song_id": "conflict",
+		"difficulty": 2,
+		"score": 8816994,
+		"shiny_perfect_count": 707,
+		"perfect_count": 875,
+		"near_count": 112,
+		"miss_count": 69,
+		"health": 76,
+		"modifier": 1,
+		"time_played": 1636564690047,
+		"best_clear_type": 4,
+		"clear_type": 4,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 10.1,
+		"rating": 7.823313333333333,
+		"song_date": 1509667206
+	}, {
+		"user_id": 496875,
+		"song_id": "pragmatism",
+		"difficulty": 2,
+		"score": 8790437,
+		"shiny_perfect_count": 629,
+		"perfect_count": 775,
+		"near_count": 106,
+		"miss_count": 61,
+		"health": 77,
+		"modifier": 1,
+		"time_played": 1643957323497,
+		"best_clear_type": 4,
+		"clear_type": 4,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 10.1,
+		"rating": 7.73479,
+		"song_date": 1487980817
+	}, {
+		"user_id": 496875,
+		"song_id": "blackterritory",
+		"difficulty": 2,
+		"score": 8871156,
+		"shiny_perfect_count": 864,
+		"perfect_count": 998,
+		"near_count": 124,
+		"miss_count": 73,
+		"health": 82,
+		"modifier": 1,
+		"time_played": 1612854909941,
+		"best_clear_type": 4,
+		"clear_type": 4,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.7,
+		"rating": 7.6038533333333325,
+		"song_date": 1553126403
+	}, {
+		"user_id": 496875,
+		"song_id": "cyaegha",
+		"difficulty": 2,
+		"score": 8487693,
+		"shiny_perfect_count": 851,
+		"perfect_count": 1071,
+		"near_count": 180,
+		"miss_count": 117,
+		"health": 33,
+		"modifier": 1,
+		"time_played": 1643956685595,
+		"best_clear_type": 0,
+		"clear_type": 0,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 10.8,
+		"rating": 7.425643333333334,
+		"song_date": 1553126406
+	}, {
+		"user_id": 496875,
+		"song_id": "purpleverse",
+		"difficulty": 2,
+		"score": 8500150,
+		"shiny_perfect_count": 639,
+		"perfect_count": 822,
+		"near_count": 95,
+		"miss_count": 106,
+		"health": 11,
+		"modifier": 0,
+		"time_played": 1637040118888,
+		"best_clear_type": 0,
+		"clear_type": 0,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 9.5,
+		"rating": 6.167166666666667,
+		"song_date": 1606953605
+	}, {
+		"user_id": 496875,
+		"song_id": "grievouslady",
+		"difficulty": 2,
+		"score": 2255436,
+		"shiny_perfect_count": 264,
+		"perfect_count": 317,
+		"near_count": 20,
+		"miss_count": 1113,
+		"health": -1,
+		"modifier": 2,
+		"time_played": 1637157258060,
+		"best_clear_type": 0,
+		"clear_type": 0,
+		"name": "AquariusAQ",
+		"character": 7,
+		"is_skill_sealed": false,
+		"is_char_uncapped": false,
+		"rank": 1,
+		"constant": 11.3,
+		"rating": 0,
+		"song_date": 1509667208
+	}]
+}
