@@ -44,6 +44,7 @@ function get_info(qq, callback) {
                     for (let index = 0; index < 30; index++) {
                         const element = rich_info['scores'][index];
                         result['b30'].push({
+                            song_id: element['song_id'],
                             song: rich_info['song_title'][element['song_id']]['en'],
                             difficulty: diff_list[element['difficulty']],
                             score: element['score'],
