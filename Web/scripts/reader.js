@@ -3,10 +3,10 @@ var fs = require('fs');
 clear_list = ['Track Lost', 'Normal Clear', 'Full Recall', 'Pure Memory', 'Easy Clear', 'Hard Clear']
 diff_list = ['PST', 'PRS', 'FTR', 'BYD']
 
+
+data_root = __dirname.slice(0,-7) + '/data/'
+
 function get_info(qq, callback) {
-    //data_root = __dirname + '../data/'
-    //data_root = './'
-    data_root = __dirname.slice(0,-7) + '/data/'
     if (!fs.existsSync(data_root + qq + '.json')) {
         callback({code: 400, msg: '该QQ号未绑定，请前往 http://arcaea.gensou.cc/ 进行账号绑定~'});
         return;
@@ -64,4 +64,38 @@ function get_info(qq, callback) {
     }) 
 }
 
+function get_hostory(qq, callback) {
+    if (!fs.existsSync(data_root + qq + '.json')) {
+        callback({code: 400, msg: '该QQ号未绑定，请前往 http://arcaea.gensou.cc/ 进行账号绑定~'});
+        return;
+    }
+    fs.readFile(data_root + qq + '.json', (err, base_data) => {
+        if (err) {
+            console.log(err);
+        } else {
+            base_info_str = base_data.toString();
+            base_info = JSON.parse(base_info_str)
+            if (base_info['state'] == 1) {
+                callback({code: 300, msg: '正在从查分器存储至缓存中，请稍后再查询~'});
+                return;
+            }
+            if (base_info['state'] == 3) {
+                callback({code: 500, msg: '查分器查询失败，请重新在  http://arcaea.gensou.cc/ 绑定账号！' + JSON.stringify(base_info)});
+                return;
+            }
+            fs.readFile(data_root + qq + '.txt', (err, data) => {
+                if (err) {
+                    console.log(err);
+                } else {
+                    rich_info_str = data.toString();
+                    rich_info = JSON.parse(rich_info_str);
+                    result = rich_info['userinfo']['rating_records'];
+                    callback({code:200, msg:'获取成功', data:result});
+                }
+            });
+        }
+    }) 
+}
+
 module.exports.get_info = get_info
+module.exports.get_hostory = get_hostory
