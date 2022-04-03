@@ -41,7 +41,8 @@ function get_info(qq, callback) {
                     result['username'] = rich_info['userinfo']['name'];
                     result['b30'] = [];
                     result['update_time'] = update_time;
-                    for (let index = 0; index < 30; index++) {
+                    let song_count = Math.min(30, rich_info['scores'].length)
+                    for (let index = 0; index < song_count; index++) {
                         const element = rich_info['scores'][index];
                         result['b30'].push({
                             song_id: element['song_id'],
