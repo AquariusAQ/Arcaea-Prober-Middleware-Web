@@ -1,2 +1,7 @@
 # user data
 Web/data/*
+# default file
+Web/.htaccess
+Web/.user.ini
+Web/404.html
+Web/index.html
