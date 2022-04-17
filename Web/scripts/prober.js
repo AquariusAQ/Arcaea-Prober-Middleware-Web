@@ -12,6 +12,7 @@ function crawler(qq, username) {
         qq: qq,
         username: username,
         state: 1,
+        req_time: Date.now(),
     }
     let str = JSON.stringify(data,"","\t")
     fs.writeFile('./data/' + qq + '.json', str, function(err){

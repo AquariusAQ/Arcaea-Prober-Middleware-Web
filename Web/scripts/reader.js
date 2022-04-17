@@ -15,10 +15,16 @@ function get_info(qq, callback) {
         if (err) {
             console.log(err);
         } else {
-            base_info_str = base_data.toString();
-            base_info = JSON.parse(base_info_str)
-            if (base_info['state'] == 1) {
+            var base_info_str = base_data.toString();
+            var base_info = JSON.parse(base_info_str);
+            var time_now = Date.now();
+            var probe_time = (time_now - base_info['req_time']) / 1000 / 60;
+            if (base_info['state'] == 1 && probe_time < 10) {
                 callback({code: 300, msg: '正在从查分器存储至缓存中，请稍后再查询~'});
+                return;
+            }
+            if (base_info['state'] == 1 && probe_time >= 10) {
+                callback({code: 301, msg: '查询超时！'});
                 return;
             }
             if (base_info['state'] == 3) {
